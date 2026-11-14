@@ -71,3 +71,7 @@ field. Other designs (BLAKE3) bring their own.
 
 `tests/tools_crosscheck.rs` also checks against the system's `sha1sum` and `sha256sum`, and against git's object IDs
 in SHA-1 and SHA-256 repositories. Each part skips itself where its tool isn't installed.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

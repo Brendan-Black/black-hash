@@ -2,6 +2,8 @@
 name = "black-hash"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/Brendan-Black/black-hash"
 description = "SHA-1, collision-detecting SHA-1 and SHA-256, with no dependencies"
 
 # No dependencies of any kind.
